@@ -19,6 +19,7 @@ body {
     font-style: normal;
     color: var(--color-light);
     margin: 0;
+    background-color: rgb(255, 255, 255);
 }
 
 ul {
